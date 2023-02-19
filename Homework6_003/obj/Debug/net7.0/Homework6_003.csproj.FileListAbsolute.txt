@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\bin\Debug\net7.0\Homework6_003.exe
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\bin\Debug\net7.0\Homework6_003.deps.json
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\bin\Debug\net7.0\Homework6_003.runtimeconfig.json
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\bin\Debug\net7.0\Homework6_003.dll
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\bin\Debug\net7.0\Homework6_003.pdb
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\Homework6_003.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\Homework6_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\Homework6_003.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\Homework6_003.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\Homework6_003.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\Homework6_003.dll
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\refint\Homework6_003.dll
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\Homework6_003.pdb
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\Homework6_003.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Homework-6\Homework6_003\obj\Debug\net7.0\ref\Homework6_003.dll
